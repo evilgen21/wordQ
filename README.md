@@ -3,12 +3,12 @@
 
 <img src="https://github.com/evilgen21/wordQ/blob/main/wordq%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9-2.jpg" width="194" height="420"> 
 
-<img src="https://github.com/evilgen21/wordQ/blob/main/wordq%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9-3.jpg" width="194" height="420">
+<img src="https://github.com/evilgen21/wordQ/blob/main/wordq%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9-4.jpg">
 
 
-<img src="https://github.com/evilgen21/neonlink2098/blob/main/3.png" width="194" height="420"> 
+<img src="https://github.com/evilgen21/wordQ/blob/main/wordq%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9-5.jpg"> 
 
-<img src="https://github.com/evilgen21/neonlink2098/blob/main/4.png" width="194" height="420">
+<img src="https://github.com/evilgen21/wordQ/blob/main/wordq%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9-6.jpg">
  
 
 🌍 Мультиязычная поддержка
