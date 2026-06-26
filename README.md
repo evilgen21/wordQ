@@ -1,7 +1,7 @@
 # Word Quest — Word Search Puzzle Game
 Встречайте Word Quest — 
 
-<img src="https://github.com/evilgen21/neonlink2098/blob/main/1.png" width="194" height="420"> <img src="https://github.com/evilgen21/neonlink2098/blob/main/2.png" width="194" height="420"> <img src="https://github.com/evilgen21/neonlink2098/blob/main/3.png" width="194" height="420"> <img src="https://github.com/evilgen21/neonlink2098/blob/main/4.png" width="194" height="420">
+<img src="https://github.com/evilgen21/wordQ/blob/main/wordq%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9-2.jpg" width="194" height="420"> <img src="https://github.com/evilgen21/neonlink2098/blob/main/2.png" width="194" height="420"> <img src="https://github.com/evilgen21/neonlink2098/blob/main/3.png" width="194" height="420"> <img src="https://github.com/evilgen21/neonlink2098/blob/main/4.png" width="194" height="420">
  
 
 🌍 Мультиязычная поддержка
